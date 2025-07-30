@@ -21,7 +21,7 @@ def get_recommendations(title, cosine_sim=cosine_sim):
 # Safe fetch poster function with retries and error handling
 def fetch_poster(movie_id):
     try:
-        api_key = 'e71b7550c741462092d559bbb120eb9f'
+        api_key = 'e71b7550c741462092d559bbb120eb9f' # Enter your API key
         url = f'https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}&language=en-US'
 
         headers = {
