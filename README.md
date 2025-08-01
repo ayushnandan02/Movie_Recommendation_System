@@ -57,4 +57,3 @@ Have created a text input bar to add your movie whose recommendation you want. O
 <img width="2245" height="1587" alt="Black and Gold Elegant Card Background " src="https://github.com/user-attachments/assets/21b7d2c4-92b5-486b-9d8c-5f5e175fcca6" />
 
 
-
